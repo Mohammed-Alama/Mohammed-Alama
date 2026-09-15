@@ -25,7 +25,7 @@ I like taking systems that are genuinely hard to reason about — pricing engine
 <summary><b>🚕 The one about the mobility platform I built alone</b></summary>
 <br>
 
-**SinaiTaxi** is a mobility platform I solo-architected as a 25-module modular monolith, using Domain-Driven Design and hexagonal architecture.
+**SinaiTaxi** is a mobility platform I solo-architected as a 35-module modular monolith, using Domain-Driven Design and hexagonal architecture.
 
 Inside it:
 - A **geo-polygon pricing engine** — pricing that actually understands geography, not just distance
