@@ -13,7 +13,7 @@
 
 ## 🧭 About
 
-I'm a Senior Backend Engineer & Software Architect based in Cairo, Egypt, with 7+ years in PHP/Laravel. I've spent that time on both sides of the fence — building enterprise-scale systems at places like **Spryker**, **Actindo**, **IHF**, and the **Islamic Development Bank**, and architecting my own products solo from scratch.
+I'm a Senior Backend Engineer & Software Architect based in Cairo, Egypt, with 7+ years in PHP/Laravel. I've spent that time on both sides of the fence — building enterprise-scale systems at places like [**Spryker**](https://spryker.com/), [**Actindo**](https://actindo.com), [**IHF**](https://ihf.info), and the [**Islamic Development Bank**](https://www.isdb.org/), and architecting my own products solo from scratch.
 
 I like taking systems that are genuinely hard to reason about — pricing engines, workflow orchestration, multi-party settlements, API integration layers — and rebuilding them so the next engineer (or future me) can read the diagram and just *get it*. That's the "bedtime story" part: complexity should be explainable, not just functional.
 
@@ -25,7 +25,7 @@ I like taking systems that are genuinely hard to reason about — pricing engine
 <summary><b>🚕 The one about the mobility platform I built alone</b></summary>
 <br>
 
-**SinaiTaxi** is a mobility platform I solo-architected as a 35-module modular monolith, using Domain-Driven Design and hexagonal architecture.
+[**SinaiTaxi**](https://sinaitaxi.com/) is a mobility platform I solo-architected as a 35-module modular monolith, using Domain-Driven Design and hexagonal architecture.
 
 Inside it:
 - A **geo-polygon pricing engine** — pricing that actually understands geography, not just distance
